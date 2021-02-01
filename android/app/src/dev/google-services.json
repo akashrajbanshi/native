@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81246900436",
+    "project_id": "fir-flavor-dev",
+    "storage_bucket": "fir-flavor-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81246900436:android:892cc6bc6bf86600c12b41",
+        "android_client_info": {
+          "package_name": "com.sample.native_talk.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81246900436-j9vq98q24m0onb8lc202n9fpe1o1dr6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtUNGBslRfdk7_jjAAhg3fy8EQqm6o77I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81246900436-j9vq98q24m0onb8lc202n9fpe1o1dr6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
